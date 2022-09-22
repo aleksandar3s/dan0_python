@@ -37,6 +37,7 @@ def vhodnaF():
     print(l1)
     print(l2)
 
+    
 
 
 if __name__ == "__main__": #__name__ je parameter skripte
